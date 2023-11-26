@@ -17,7 +17,7 @@ So as you can see to get a fully feature complete email is a messy process in Re
 For Example These Are Some of my favorite valid emails
 
 ```text
-// It is inbetween quotes and the characters are exscaped
+// It is in between quotes and the characters are escaped
 "very.(),:;<>[]\".VERY.\"very@\ \"very\".unusual"@strange.example.com
 // Yes this is valid. 
 #!$%&'*+-/=?^_`{}|~@example.org
@@ -48,4 +48,4 @@ Feel Free to PR more libraries
 
 ### Thanks
 
-[kenorb](https://stackoverflow.com/a/38787343) for their invalid and valid emails on stackoverflow.
+[kenorb](https://stackoverflow.com/a/38787343) for their invalid and valid emails on StackOverFlow.
