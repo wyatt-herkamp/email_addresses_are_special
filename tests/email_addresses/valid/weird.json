@@ -1,0 +1,12 @@
+[
+    {
+        "email": "\"very.(),:;<>[]\\\".VERY.\\\"very@ \\\"very\\\".unusual\"@strange.example.com",
+        "local": "\"very.(),:;<>[]\\\".VERY.\\\"very@ \\\"very\\\".unusual\"",
+        "domain": "strange.example.com"
+    },
+    {
+        "email": "\" \"@example.com",
+        "local": "\" \"",
+        "domain": "example.com"
+    }
+]

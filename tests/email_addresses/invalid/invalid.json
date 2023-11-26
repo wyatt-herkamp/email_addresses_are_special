@@ -1,0 +1,30 @@
+[
+    {
+        "email": "A@b@c@example.com",
+        "why": "Too many @ symbols"
+    },
+    {
+        "email": "a\"b(c)d,e:f;gi[j\\k]l@example.com",
+        "part": "Local"
+    },
+    {
+        "email": "just\"not\"right@example.com",
+        "part": "Local"
+    },
+    {
+        "email": "this is\"not\\allowed@example.com",
+        "part": "Local"
+    },
+    {
+        "email": "this\\ still\"not\\allowed@example.com",
+        "part": "Local"
+    },
+    {
+        "email": "john..doe@example.com",
+        "part": "Local"
+    },
+    {
+        "email": "john.doe@example..com",
+        "part": "Domain"
+    }
+]

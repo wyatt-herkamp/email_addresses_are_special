@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/InvalidSchemaElement"
+    },
+    "definitions": {
+        "InvalidSchemaElement": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "mailbox": {
+                    "type": "string",
+                    "description": "Mailbox to be Validated"
+                },
+                "local": {
+                    "type": "string",
+                    "description": "Local part of the email address"
+                },
+                "domain": {
+                    "type": "string",
+                    "description": "Domain part of the email address"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Name of the mailbox"
+                }
+            },
+            "required": [
+                "domain",
+                "local",
+                "mailbox",
+                "name"
+            ],
+            "title": "InvalidSchemaElement"
+        }
+    }
+}

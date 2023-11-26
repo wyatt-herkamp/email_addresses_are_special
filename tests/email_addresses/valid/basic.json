@@ -1,0 +1,17 @@
+[
+    {
+        "email": "disposable.style.email.with+symbol@example.com",
+        "local": "disposable.style.email.with+symbol",
+        "domain": "example.com"
+    },
+    {
+        "email": "example@gmail.com",
+        "local": "example",
+        "domain": "gmail.com"
+    },
+    {
+        "email": "user.name+tag+sorting@example.com",
+        "local": "user.name+tag+sorting",
+        "domain": "example.com"
+    }
+]

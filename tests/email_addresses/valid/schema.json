@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/ValidSchemaElement"
+    },
+    "definitions": {
+        "ValidSchemaElement": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "email": {
+                    "type": "string",
+                    "description": "Email address to be validated"
+                },
+                "local": {
+                    "type": "string",
+                    "description": "Local part of the email address"
+                },
+                "domain": {
+                    "type": "string",
+                    "description": "Domain part of the email address"
+                }
+            },
+            "required": [
+                "domain",
+                "email",
+                "local"
+            ],
+            "title": "ValidSchemaElement"
+        }
+    }
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "mailbox": "Example<example@example.com>",
+        "name": "Example",
+        "local": "example",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "\"Alice in Wonderland\" <alice@wonderland.com>",
+        "name": "Alice in Wonderland",
+        "local": "alice",
+        "domain": "wonderland.com"
+    },
+    {
+        "mailbox": "\"Bob The Builder\" <bob@the.builder.com>",
+        "name": "Bob The Builder",
+        "local": "bob",
+        "domain": "the.builder.com"
+    },
+    {
+        "mailbox": "Charlie <charlie.brown@example.com>",
+        "name": "Charlie",
+        "local": "charlie.brown",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "David <david.tennet@example.com>",
+        "name": "David",
+        "local": "david.tennet",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Eve <eve@example.com>",
+        "name": "Eve",
+        "local": "eve",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Frank <frank@example.com>",
+        "name": "Frank",
+        "local": "frank",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Grace <grace@example.com>",
+        "name": "Grace",
+        "local": "grace",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Henry <henry@example.com>",
+        "name": "Henry",
+        "local": "henry",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Isabel <isabel@example.com>",
+        "name": "Isabel",
+        "local": "isabel",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Jack <jack@example.com>",
+        "name": "Jack",
+        "local": "jack",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Karen <karen@example.com>",
+        "name": "Karen",
+        "local": "karen",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Lucy <lucy@example.com>",
+        "name": "Lucy",
+        "local": "lucy",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Mike <mike@example.com>",
+        "name": "Mike",
+        "local": "mike",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Nancy <nancy@example.com>",
+        "name": "Nancy",
+        "local": "nancy",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Oliver <oliver@example.com>",
+        "name": "Oliver",
+        "local": "oliver",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Peter <peter@example.com>",
+        "name": "Peter",
+        "local": "peter",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Quinn <quinn@example.com>",
+        "name": "Quinn",
+        "local": "quinn",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Bob <bob+spam@example.com>",
+        "name": "Bob",
+        "local": "bob+spam",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "Charlie <charlie@[127.0.0.1]>",
+        "name": "Charlie",
+        "local": "charlie",
+        "domain": "[127.0.0.1]"
+    },
+    {
+        "mailbox": "Quinn <quinn@example.com>",
+        "name": "Quinn",
+        "local": "quinn",
+        "domain": "example.com"
+    },
+    {
+        "mailbox": "R2D2 <r2d2@[::1]>",
+        "name": "R2D2",
+        "local": "r2d2",
+        "domain": "[::1]"
+    },
+    {
+        "mailbox": "C-3PO <c-3po@[2001:0db8:85a3:0000:0000:8a2e:0370:7334]>",
+        "name": "C-3PO",
+        "local": "c-3po",
+        "domain": "[2001:0db8:85a3:0000:0000:8a2e:0370:7334]"
+    },
+    {
+        "mailbox": "\"Darth Vader\" <darth.vader@[2001:0db8:85a3:0000:0000:8a2e:0370:7334]>",
+        "name": "Darth Vader",
+        "local": "darth.vader",
+        "domain": "[2001:0db8:85a3:0000:0000:8a2e:0370:7334]"
+    }
+]
